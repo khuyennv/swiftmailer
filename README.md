@@ -1,7 +1,4 @@
-Swift Mailer
-------------
-
-**Swiftmailer will stop being maintained at the end of November 2021.**
+## Swift Mailer
 
 Please, move to [Symfony Mailer](https://symfony.com/doc/current/mailer.html) at your earliest convenience.
 [Symfony Mailer](https://symfony.com/doc/current/mailer.html) is the next evolution of Swiftmailer.
@@ -15,8 +12,7 @@ to use in complex web application with a great deal of flexibility.
 
 For full details on usage, read the [documentation](https://swiftmailer.symfony.com/docs/introduction.html).
 
-Sponsors
---------
+## Sponsors
 
 <div>
     <a href="https://blackfire.io/docs/introduction?utm_source=swiftmailer&utm_medium=github_readme&utm_campaign=logo">
